@@ -6,7 +6,7 @@
           "name": "Snake Game",
           "description": "Use the arrow keys to control your snake. Press SPACEBAR to pause. Eat as many apples as you can to grow as long as possible. But don't hit the wall, or eat your tail! How long can you survive?",
           "img": "projects-img/Snake_game.png",
-          "skillset": ["HTML", "CSS", "JavaScript / ES 6"],
+          "skillset": ["HTML", "CSS", "JavaScript"],
           "linkToGit": "https://github.com/Bpetrushev/snake-snake",
           "linkToSite": "https://bpetrushev.github.io/snake-snake/"
        },
@@ -15,7 +15,7 @@
         "name": "Game Show Project",
         "description": "The wheel of success chalenges you to figure out the hidden phrase by clicking letter on the screen. If you click a letter that appears in the phrase, it will appear on the board. If you click a letter that's not there, you'll lose your heart points. Run out of hearts before you guess the phrase and you lose.",
         "img": "projects-img/game-show-project.png",
-        "skillset": ["HTML", "CSS", "JavaScript / ES 6"],
+        "skillset": ["HTML", "CSS", "JavaScript"],
         "linkToGit": "https://github.com/Bpetrushev/game-show-app",
         "linkToSite": "https://bpetrushev.github.io/game-show-app/"
      },
@@ -24,7 +24,7 @@
         "name": "Web Dashboard Project",
         "description": "Businesses use web dashboard to quickly review important data displayed as charts and graphs.This project shows an example page with a data analytics dashboard.",
         "img": "projects-img/webapp-dashboard.png",
-        "skillset": ["HTML", "CSS", "JavaScript / ES 6", "Chart.js"],
+        "skillset": ["HTML", "CSS", "JavaScript", "Chart.js"],
         "linkToGit": "https://github.com/Bpetrushev/webApp-Dashboard",
         "linkToSite": "https://bpetrushev.github.io/webApp-Dashboard/"
      },
@@ -42,7 +42,7 @@
         "name": "Awesome Startup Employee Directory",
         "description": "This projects uses an API. Retrieves data from another website and display it on web page. Also have some interactive features like pop up details when you click on one of the employees cards in addition the form field let you filter information to locate just the employee you're looking for.",
         "img": "projects-img/employee-directory.png",
-        "skillset": ["HTML", "CSS", "JavaScript / ES 6", "Fetch API"],
+        "skillset": ["HTML", "CSS", "JavaScript", "Fetch API"],
         "linkToGit": "https://github.com/Bpetrushev/employee-directory",
         "linkToSite": "https://bpetrushev.github.io/employee-directory/"
      }
