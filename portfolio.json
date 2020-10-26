@@ -1,6 +1,14 @@
 {
     "projects": [
- 
+      {
+         "id": "memory-game",
+         "name": "Memory Game",
+         "description": "text memory game",
+         "img": "projects-img/memoryGame.jpg",
+         "skillset": ["HTML", "CSS", "JavaScript", "TweenMax"],
+         "linkToGit": "https://github.com/Bpetrushev/memoryGame/",
+         "linkToSite": "https://bpetrushev.github.io/memoryGame/"
+      },
        {
           "id": "snake-game",
           "name": "Snake Game",
