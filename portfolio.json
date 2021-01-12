@@ -1,6 +1,15 @@
 {
     "projects": [
       {
+         "id": "rock-paper-scissors",
+         "name": "Rock Paper Scissors",
+         "description": "Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are \"rock\", \"paper\", and \"scissors\".",
+         "img": "projects-img/rockPaperScissors.png",
+         "skillset": ["HTML", "CSS", "JavaScript", "TweenMax", "React"],
+         "linkToGit": "https://github.com/Bpetrushev/rockPaperScissors/tree/master",
+         "linkToSite": "https://bpetrushev.github.io/rockPaperScissors/"
+      },
+      {
          "id": "memory-game",
          "name": "Memory Game",
          "description": "Memory game is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.",
